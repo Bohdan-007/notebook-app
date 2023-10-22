@@ -1,0 +1,73 @@
+{
+  "notes": [
+    {
+      "title": "this",
+      "body": "is my cat",
+      "bgColor": "#ffff84",
+      "id": 1
+    },
+    {
+      "title": "qwe",
+      "body": "qweeeqw",
+      "bgColor": "#ff867a",
+      "id": 2
+    },
+    {
+      "title": "note3",
+      "body": "asdadaddad",
+      "bgColor": "#79d6ff",
+      "id": 3
+    },
+    {
+      "title": "123",
+      "body": "zxczccczxczccxzcxzzc",
+      "bgColor": "#c7ff86",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "body": "some text",
+      "bgColor": "#cdd7dc",
+      "id": 6
+    },
+    {
+      "title": "1",
+      "body": "wwwwwwwww1",
+      "bgColor": "#ffce77",
+      "id": 8
+    },
+    {
+      "title": "TODO",
+      "body": "- create todo app\n- testing todo app",
+      "bgColor": "#a2ffeb",
+      "id": 9
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "todo 1",
+      "isCompleted": true
+    },
+    {
+      "title": "task 3",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "title": "another task",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "title": "complete react-lab",
+      "isCompleted": true,
+      "id": 4
+    },
+    {
+      "title": "qwe",
+      "isCompleted": false,
+      "id": 5
+    }
+  ]
+}

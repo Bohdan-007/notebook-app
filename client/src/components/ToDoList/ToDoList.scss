@@ -1,0 +1,12 @@
+.todo-list {
+  list-style-type: none;
+
+  .my-li {
+    transition: .2s;
+
+    &:hover {
+      background-color: #9dc8b5 !important;
+      transform: scale(1.01);
+    }
+  }
+}

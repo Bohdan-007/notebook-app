@@ -1,0 +1,19 @@
+.todo-complete {
+  color: #737373;
+  text-decoration: line-through;
+}
+
+.my-checkbox {
+  &:hover {
+    cursor: pointer;
+  }
+
+  &:checked {
+    background-color: #70bd4d;
+  }
+}
+
+.my-todo-text {
+  overflow: hidden;
+  overflow-x: auto;
+}
